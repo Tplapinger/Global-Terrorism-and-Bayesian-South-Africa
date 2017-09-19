@@ -98,4 +98,3 @@ If you're enjoying this research (and want to go further), get in touch with Mat
 Moreover, if you want to dig into the literature, check out [Dr. Schrodt's](http://parusanalytics.com/about.html) Bayesian approach to understanding terror.
 
 Thank you to [Dr. Joseph Young](http://fs2.american.edu/jyoung/www/) for his thoughts on this research.
-# Global-Terrorism-and-Bayesian-South-Africa
